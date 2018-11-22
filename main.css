@@ -1,0 +1,62 @@
+body {
+    background: #171719;
+    text-align: center;
+}
+
+h1 {
+    font-size: 45px;
+    color: beige;
+}
+
+h4 {
+    font-size: 20px;
+    color: beige;
+}
+
+#button {
+    background: none;
+    background-color: white;
+    width: 75px;
+    height: 35px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    text-transform: uppercase;
+    margin-left: 10px;
+    margin-bottom: -30px;
+    
+    
+}
+
+#button:hover {
+    background-color: aqua;
+    color: steelblue;
+    border: none;
+    margin: none;
+    padding: none;
+}
+
+#input {
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+}
+
+#message {
+    text-align: center;
+    color: white;
+}
+
+.results {
+    text-align: center;
+    position: relative;
+    display: none;
+    padding: 5px;
+
+}
+
+img {
+    width: 900px;
+    height: 600px;
+    padding: 25px;
+}
